@@ -98,7 +98,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="vuLd_trDYShbLIRh-c6U-1" value="Diagrama de Contenedores" style="swimlane;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
-          <mxGeometry x="19" y="70" width="790" height="610" as="geometry" />
+          <mxGeometry x="19" y="120" width="790" height="610" as="geometry" />
         </mxCell>
         <mxCell id="vuLd_trDYShbLIRh-c6U-2" value="Cliente (App/Web)" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="vuLd_trDYShbLIRh-c6U-1">
           <mxGeometry x="51" y="100" width="30" height="60" as="geometry" />
