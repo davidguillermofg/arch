@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.11">
   <diagram name="Page-1" id="KD73vJJ_ITl08i1PaZ_e">
-    <mxGraphModel dx="708" dy="695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1122" dy="696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -216,7 +216,7 @@
         <mxCell id="Lg5PiGHGSfTX3QaenPzm-54" value="API Gateway" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="Lg5PiGHGSfTX3QaenPzm-51">
           <mxGeometry x="250" y="100" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Lg5PiGHGSfTX3QaenPzm-55" value="Exposicion&lt;div&gt;API&lt;/div&gt;" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="Lg5PiGHGSfTX3QaenPzm-51">
+        <mxCell id="Lg5PiGHGSfTX3QaenPzm-55" value="Exposicion&lt;div&gt;API&lt;/div&gt;" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="Lg5PiGHGSfTX3QaenPzm-51">
           <mxGeometry x="510" y="100" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Lg5PiGHGSfTX3QaenPzm-56" value="Service Mesh&lt;div&gt;(Istio, )&lt;/div&gt;" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="Lg5PiGHGSfTX3QaenPzm-51">
@@ -244,16 +244,16 @@
             <mxPoint y="-16" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Lg5PiGHGSfTX3QaenPzm-61" value="Microservicios&lt;div&gt;Bancarios&lt;/div&gt;" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="Lg5PiGHGSfTX3QaenPzm-51">
+        <mxCell id="Lg5PiGHGSfTX3QaenPzm-61" value="Microservicios&lt;div&gt;Bancarios&lt;/div&gt;" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="Lg5PiGHGSfTX3QaenPzm-51">
           <mxGeometry x="430" y="230" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Lg5PiGHGSfTX3QaenPzm-62" value="Monitoreo&lt;div&gt;y Seguridad&lt;/div&gt;" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="Lg5PiGHGSfTX3QaenPzm-51">
+        <mxCell id="Lg5PiGHGSfTX3QaenPzm-62" value="Monitoreo&lt;div&gt;y Seguridad&lt;/div&gt;" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="Lg5PiGHGSfTX3QaenPzm-51">
           <mxGeometry x="630" y="230" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Lg5PiGHGSfTX3QaenPzm-63" value="Orquestador&lt;div&gt;de Pagos&lt;/div&gt;" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="Lg5PiGHGSfTX3QaenPzm-51">
+        <mxCell id="Lg5PiGHGSfTX3QaenPzm-63" value="Orquestador&lt;div&gt;de Pagos&lt;/div&gt;" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="Lg5PiGHGSfTX3QaenPzm-51">
           <mxGeometry x="430" y="400" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Lg5PiGHGSfTX3QaenPzm-64" value="Core Bancario&lt;div&gt;Digital&lt;/div&gt;" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="Lg5PiGHGSfTX3QaenPzm-51">
+        <mxCell id="Lg5PiGHGSfTX3QaenPzm-64" value="Core Bancario&lt;div&gt;Digital&lt;/div&gt;" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="Lg5PiGHGSfTX3QaenPzm-51">
           <mxGeometry x="630" y="400" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Lg5PiGHGSfTX3QaenPzm-65" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="Lg5PiGHGSfTX3QaenPzm-51" source="Lg5PiGHGSfTX3QaenPzm-56" target="Lg5PiGHGSfTX3QaenPzm-54">
@@ -300,10 +300,10 @@
             <mxPoint x="16" y="-13" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Lg5PiGHGSfTX3QaenPzm-71" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="Lg5PiGHGSfTX3QaenPzm-61">
+        <mxCell id="Lg5PiGHGSfTX3QaenPzm-71" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.135;exitY=0.468;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="Lg5PiGHGSfTX3QaenPzm-51" source="Lg5PiGHGSfTX3QaenPzm-62" target="Lg5PiGHGSfTX3QaenPzm-61">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="650" y="1695" as="sourcePoint" />
-            <mxPoint x="750" y="1650" as="targetPoint" />
+            <mxPoint x="632" y="255" as="sourcePoint" />
+            <mxPoint x="732" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Lg5PiGHGSfTX3QaenPzm-74" value="Supervisa" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Lg5PiGHGSfTX3QaenPzm-71">
