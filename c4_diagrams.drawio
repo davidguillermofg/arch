@@ -109,25 +109,25 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Lg5PiGHGSfTX3QaenPzm-28" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Lg5PiGHGSfTX3QaenPzm-21">
+        <mxCell id="Lg5PiGHGSfTX3QaenPzm-28" value="APIs Externas&lt;div&gt;(Open Finance)&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Lg5PiGHGSfTX3QaenPzm-21">
           <mxGeometry x="570" y="90" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Lg5PiGHGSfTX3QaenPzm-29" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Lg5PiGHGSfTX3QaenPzm-21">
+        <mxCell id="Lg5PiGHGSfTX3QaenPzm-29" value="Event Bus&lt;div&gt;(Kafka/RabittMQ)&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Lg5PiGHGSfTX3QaenPzm-21">
           <mxGeometry x="240" y="280" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Lg5PiGHGSfTX3QaenPzm-30" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Lg5PiGHGSfTX3QaenPzm-21">
+        <mxCell id="Lg5PiGHGSfTX3QaenPzm-30" value="Microservicios&lt;div&gt;Bancarios&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Lg5PiGHGSfTX3QaenPzm-21">
           <mxGeometry x="460" y="280" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Lg5PiGHGSfTX3QaenPzm-31" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Lg5PiGHGSfTX3QaenPzm-21">
+        <mxCell id="Lg5PiGHGSfTX3QaenPzm-31" value="Plataforma de&lt;div&gt;Pagos&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Lg5PiGHGSfTX3QaenPzm-21">
           <mxGeometry x="650" y="280" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Lg5PiGHGSfTX3QaenPzm-32" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Lg5PiGHGSfTX3QaenPzm-21">
+        <mxCell id="Lg5PiGHGSfTX3QaenPzm-32" value="Core Bancario&lt;div&gt;Tradicional&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Lg5PiGHGSfTX3QaenPzm-21">
           <mxGeometry x="240" y="470" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Lg5PiGHGSfTX3QaenPzm-33" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Lg5PiGHGSfTX3QaenPzm-21">
+        <mxCell id="Lg5PiGHGSfTX3QaenPzm-33" value="Nuevo Core&lt;div&gt;Digital&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Lg5PiGHGSfTX3QaenPzm-21">
           <mxGeometry x="460" y="470" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Lg5PiGHGSfTX3QaenPzm-34" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Lg5PiGHGSfTX3QaenPzm-21">
+        <mxCell id="Lg5PiGHGSfTX3QaenPzm-34" value="Gestion de Fraudes&lt;div&gt;y Riesgos&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Lg5PiGHGSfTX3QaenPzm-21">
           <mxGeometry x="650" y="470" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Lg5PiGHGSfTX3QaenPzm-35" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="Lg5PiGHGSfTX3QaenPzm-21" source="Lg5PiGHGSfTX3QaenPzm-29" target="Lg5PiGHGSfTX3QaenPzm-25">
@@ -136,16 +136,75 @@
             <mxPoint x="370" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Lg5PiGHGSfTX3QaenPzm-43" value="Publica" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Lg5PiGHGSfTX3QaenPzm-35">
+          <mxGeometry x="0.0428" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Lg5PiGHGSfTX3QaenPzm-36" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="Lg5PiGHGSfTX3QaenPzm-21" source="Lg5PiGHGSfTX3QaenPzm-29" target="Lg5PiGHGSfTX3QaenPzm-30">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="320" y="270" as="sourcePoint" />
             <mxPoint x="370" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Lg5PiGHGSfTX3QaenPzm-44" value="Consume" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Lg5PiGHGSfTX3QaenPzm-36">
+          <mxGeometry x="-0.4188" y="2" relative="1" as="geometry">
+            <mxPoint x="14" y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Lg5PiGHGSfTX3QaenPzm-37" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="Lg5PiGHGSfTX3QaenPzm-21" source="Lg5PiGHGSfTX3QaenPzm-25" target="Lg5PiGHGSfTX3QaenPzm-28">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="320" y="270" as="sourcePoint" />
             <mxPoint x="370" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lg5PiGHGSfTX3QaenPzm-42" value="Expone" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Lg5PiGHGSfTX3QaenPzm-37">
+          <mxGeometry x="-0.3311" y="-3" relative="1" as="geometry">
+            <mxPoint x="29" y="-13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lg5PiGHGSfTX3QaenPzm-38" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="Lg5PiGHGSfTX3QaenPzm-21" source="Lg5PiGHGSfTX3QaenPzm-30" target="Lg5PiGHGSfTX3QaenPzm-31">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="270" as="sourcePoint" />
+            <mxPoint x="370" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lg5PiGHGSfTX3QaenPzm-45" value="Llama" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Lg5PiGHGSfTX3QaenPzm-38">
+          <mxGeometry x="-0.1361" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lg5PiGHGSfTX3QaenPzm-39" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="Lg5PiGHGSfTX3QaenPzm-21" source="Lg5PiGHGSfTX3QaenPzm-32" target="Lg5PiGHGSfTX3QaenPzm-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="270" as="sourcePoint" />
+            <mxPoint x="370" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lg5PiGHGSfTX3QaenPzm-46" value="Interactua" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Lg5PiGHGSfTX3QaenPzm-39">
+          <mxGeometry x="-0.0244" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lg5PiGHGSfTX3QaenPzm-40" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="Lg5PiGHGSfTX3QaenPzm-21" source="Lg5PiGHGSfTX3QaenPzm-33" target="Lg5PiGHGSfTX3QaenPzm-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="270" as="sourcePoint" />
+            <mxPoint x="370" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lg5PiGHGSfTX3QaenPzm-47" value="Interactua" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Lg5PiGHGSfTX3QaenPzm-40">
+          <mxGeometry x="0.3529" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lg5PiGHGSfTX3QaenPzm-41" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="Lg5PiGHGSfTX3QaenPzm-21" source="Lg5PiGHGSfTX3QaenPzm-34" target="Lg5PiGHGSfTX3QaenPzm-31">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="270" as="sourcePoint" />
+            <mxPoint x="620" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lg5PiGHGSfTX3QaenPzm-48" value="Monitoreo" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Lg5PiGHGSfTX3QaenPzm-41">
+          <mxGeometry x="0.1604" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
