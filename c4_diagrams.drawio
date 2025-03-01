@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.11">
   <diagram name="Page-1" id="KD73vJJ_ITl08i1PaZ_e">
-    <mxGraphModel dx="426" dy="695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="708" dy="695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,9 +16,9 @@
             <mxPoint x="240" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Lg5PiGHGSfTX3QaenPzm-4" value="usa" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Lg5PiGHGSfTX3QaenPzm-3">
+        <mxCell id="Lg5PiGHGSfTX3QaenPzm-4" value="Usa" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Lg5PiGHGSfTX3QaenPzm-3">
           <mxGeometry x="0.075" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Lg5PiGHGSfTX3QaenPzm-5" value="APIs Externas&lt;div&gt;(Open Finance)&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
@@ -30,9 +30,9 @@
             <mxPoint x="470" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Lg5PiGHGSfTX3QaenPzm-7" value="expone" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Lg5PiGHGSfTX3QaenPzm-6">
+        <mxCell id="Lg5PiGHGSfTX3QaenPzm-7" value="Expone" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Lg5PiGHGSfTX3QaenPzm-6">
           <mxGeometry x="0.09" y="-5" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="-15" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Lg5PiGHGSfTX3QaenPzm-8" value="Core Bancario&lt;div&gt;Tradicional&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
@@ -53,9 +53,9 @@
             <mxPoint x="460" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Lg5PiGHGSfTX3QaenPzm-17" value="conecta" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Lg5PiGHGSfTX3QaenPzm-13">
+        <mxCell id="Lg5PiGHGSfTX3QaenPzm-17" value="Conecta" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Lg5PiGHGSfTX3QaenPzm-13">
           <mxGeometry x="0.0662" y="3" relative="1" as="geometry">
-            <mxPoint x="-1" as="offset" />
+            <mxPoint x="-2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Lg5PiGHGSfTX3QaenPzm-14" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Lg5PiGHGSfTX3QaenPzm-8" target="Lg5PiGHGSfTX3QaenPzm-2">
@@ -64,7 +64,7 @@
             <mxPoint x="460" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Lg5PiGHGSfTX3QaenPzm-18" value="interfaz" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Lg5PiGHGSfTX3QaenPzm-14">
+        <mxCell id="Lg5PiGHGSfTX3QaenPzm-18" value="Interfaz" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Lg5PiGHGSfTX3QaenPzm-14">
           <mxGeometry x="0.201" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
