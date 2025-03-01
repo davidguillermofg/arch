@@ -266,7 +266,7 @@
         <mxCell id="DWZhWDUG1B1yVHZUQyah-11" value="Monitoreo&lt;div&gt;y Seguridad&lt;/div&gt;&lt;div&gt;(SIEM, IAM)&lt;/div&gt;" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="DWZhWDUG1B1yVHZUQyah-1">
           <mxGeometry x="630" y="230" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="DWZhWDUG1B1yVHZUQyah-12" value="Orquestador&lt;div&gt;de Pagos&lt;/div&gt;" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="DWZhWDUG1B1yVHZUQyah-1">
+        <mxCell id="DWZhWDUG1B1yVHZUQyah-12" value="Orquestador&lt;div&gt;de Pagos&lt;/div&gt;&lt;div&gt;(Quarkus)&lt;/div&gt;" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="DWZhWDUG1B1yVHZUQyah-1">
           <mxGeometry x="430" y="400" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DWZhWDUG1B1yVHZUQyah-13" value="Core Bancario&lt;div&gt;Digital&lt;/div&gt;" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="DWZhWDUG1B1yVHZUQyah-1">
