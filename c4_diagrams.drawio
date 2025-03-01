@@ -224,7 +224,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="DWZhWDUG1B1yVHZUQyah-1" value="Diagrama de Componentes" style="swimlane;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="19" y="1290" width="790" height="490" as="geometry" />
+          <mxGeometry x="19" y="1280" width="790" height="490" as="geometry" />
         </mxCell>
         <mxCell id="DWZhWDUG1B1yVHZUQyah-2" value="FrontEnd&lt;div&gt;(Web/Movil)&lt;/div&gt;" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="DWZhWDUG1B1yVHZUQyah-1">
           <mxGeometry x="30" y="100" width="100" height="50" as="geometry" />
