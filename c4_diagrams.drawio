@@ -208,7 +208,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Lg5PiGHGSfTX3QaenPzm-51" value="Diagrama de Componentes" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="1440" width="790" height="590" as="geometry" />
+          <mxGeometry x="18" y="1440" width="790" height="590" as="geometry" />
         </mxCell>
         <mxCell id="Lg5PiGHGSfTX3QaenPzm-52" value="FrontEnd&lt;div&gt;(Web/Movil)&lt;/div&gt;" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="Lg5PiGHGSfTX3QaenPzm-51">
           <mxGeometry x="30" y="100" width="100" height="50" as="geometry" />
@@ -247,13 +247,13 @@
         <mxCell id="Lg5PiGHGSfTX3QaenPzm-61" value="Microservicios&lt;div&gt;Bancarios&lt;/div&gt;" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="Lg5PiGHGSfTX3QaenPzm-51">
           <mxGeometry x="430" y="230" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Lg5PiGHGSfTX3QaenPzm-62" value="s" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="Lg5PiGHGSfTX3QaenPzm-51">
+        <mxCell id="Lg5PiGHGSfTX3QaenPzm-62" value="Monitoreo&lt;div&gt;y Seguridad&lt;/div&gt;" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="Lg5PiGHGSfTX3QaenPzm-51">
           <mxGeometry x="630" y="230" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Lg5PiGHGSfTX3QaenPzm-63" value="s" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="Lg5PiGHGSfTX3QaenPzm-51">
           <mxGeometry x="430" y="400" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Lg5PiGHGSfTX3QaenPzm-64" value="s" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="Lg5PiGHGSfTX3QaenPzm-51">
+        <mxCell id="Lg5PiGHGSfTX3QaenPzm-64" value="Core Bancario&lt;div&gt;Digital&lt;/div&gt;" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="Lg5PiGHGSfTX3QaenPzm-51">
           <mxGeometry x="630" y="400" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Lg5PiGHGSfTX3QaenPzm-65" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="Lg5PiGHGSfTX3QaenPzm-51" source="Lg5PiGHGSfTX3QaenPzm-56" target="Lg5PiGHGSfTX3QaenPzm-54">
@@ -294,6 +294,11 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="650" y="1695" as="sourcePoint" />
             <mxPoint x="750" y="1650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lg5PiGHGSfTX3QaenPzm-74" value="Supervisa" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Lg5PiGHGSfTX3QaenPzm-71">
+          <mxGeometry x="0.2257" y="-4" relative="1" as="geometry">
+            <mxPoint x="7" y="-11" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
