@@ -46,5 +46,3 @@ In this exercise, the **C4 diagrams illustrate the proposed integration architec
 
 ---
 
-## License
-Specify your license here (if applicable), such as MIT, Apache 2.0, or proprietary.
